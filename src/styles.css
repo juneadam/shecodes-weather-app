@@ -103,3 +103,15 @@
 .search {
   margin: 20px 10px 10px;
 }
+
+.contact-button {
+  display: block;
+  margin: 20px auto 15px;
+  width: 164px;
+}
+
+.host-link {
+  margin: 10px;
+  font-size: 18px;
+  text-align: center;
+}
